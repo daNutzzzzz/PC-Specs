@@ -1,5 +1,7 @@
 # PC-Specs
 
+![logo](Images/Gamer.png)
+
 ## Gaming
 * Case: [Fractal Design Define XL R2](https://www.fractal-design.com/products/cases/define/define-xl-r2/black-pearl/)
 * PSU: [Corsair RMi750](https://www.corsair.com/uk/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RM-Series%E2%84%A2-80-PLUS-Gold-Power-Supplies/p/CP-9020195-UK)
